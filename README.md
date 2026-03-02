@@ -49,3 +49,10 @@ The script expects the following CSV files in the project root:
 1) Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+2) Run the optimisation:
+
+```bash
+python src/solar_maintenance_optim.py
+```
