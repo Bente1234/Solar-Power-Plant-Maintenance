@@ -54,5 +54,5 @@ pip install -r requirements.txt
 2) Run the optimisation:
 
 ```bash
-python src/solar_maintenance_optim.py
+python src/solar_maintenance_optimisation.py
 ```
