@@ -38,7 +38,7 @@ Constraints:
 Solved using **Gurobi**.
 
 ## Files / Data
-The script expects the following CSV files in the project root (or adjust paths accordingly):
+The script expects the following CSV files in the project root:
 - `spu_efficiency_West.csv`
 - `spu_efficiency_East.csv`
 - `cost_cleaning.csv`
